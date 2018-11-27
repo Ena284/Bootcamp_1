@@ -1,4 +1,4 @@
-#include<iostream> //biblioteka 
+#include<iostream> //biblioteka, uvijek se pise ova
 
 using namespace std;  //sluzi kako ne bi morali koristiti std cijelo vrijeme, inace nije dobra navika
 
