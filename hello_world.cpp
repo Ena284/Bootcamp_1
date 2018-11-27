@@ -6,6 +6,6 @@ int main() //glavni izbornik
 {
 	cout<<"Hello World!"<< endl; //ispisuje Hello World, a endl prebacuje u novi red
 	system("PAUSE");
-	return 0; //zbog int ispred main-a, potrebno stavljati
+	return 0; //zbog int ispred main-a, potrebno stavljati, a sad moram mijenjat nestooo
 }
 
